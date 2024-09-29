@@ -1,0 +1,1254 @@
+{
+    "status": 1,
+    "data": {
+        "fixtures": {
+            "totalCount": 394,
+            "fixtures": [
+                {
+                    "matchId": 41537005,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 851,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 851,
+                        "sportId": 1,
+                        "name": "\uad6d\uc81c \uce5c\uc120\uacbd\uae30",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 4,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 4791,
+                    "awayTeamId": 5937,
+                    "homeTeam": {
+                        "id": 4791,
+                        "name": "\ud544\ub9ac\ud540"
+                    },
+                    "awayTeam": {
+                        "id": 5937,
+                        "name": "\uc911\ud654 \ud0c0\uc774\ubca0\uc774"
+                    },
+                    "startAt": "2023-06-19T20:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "4367be227a672c48192206c3d2791286",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ud544\ub9ac\ud540"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 3.9,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 4.2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc911\ud654 \ud0c0\uc774\ubca0\uc774"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -0.5
+                            },
+                            "marketHash": "16e24d7fc25ab9f72aa01dc26586da8c",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ud544\ub9ac\ud540 (-0.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc911\ud654 \ud0c0\uc774\ubca0\uc774 (+0.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 2.5
+                            },
+                            "marketHash": "8fb53ceada992ff29e63a7a35cb73465",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 2.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 2.1,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 2.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 38144413,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 24636,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 24636,
+                        "sportId": 1,
+                        "name": "NOR D2B",
+                        "categoryName": null,
+                        "countryCode": "NOR",
+                        "categoryId": 5,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 872,
+                    "awayTeamId": 724,
+                    "homeTeam": {
+                        "id": 872,
+                        "name": "SK \ube0c\ub780 2"
+                    },
+                    "awayTeam": {
+                        "id": 724,
+                        "name": "Alta"
+                    },
+                    "startAt": "2023-06-19T20:00:00",
+                    "eventTime": null,
+                    "marketCount": 80,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "9d0b5737a408e427bebd8878f275e1a7",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 3.5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "SK \ube0c\ub780 2"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 3.9,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 1.65,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Alta"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 0.5
+                            },
+                            "marketHash": "63ba1f50d9bc232d743fadb80c790911",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.98,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "SK \ube0c\ub780 2 (+0.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Alta (-0.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 4
+                            },
+                            "marketHash": "cff137159bc31ad3f2fe975a27a3d343",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.8,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 4"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.833,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 4"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41625395,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 851,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 851,
+                        "sportId": 1,
+                        "name": "\uad6d\uc81c \uce5c\uc120\uacbd\uae30",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 4,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 4765,
+                    "awayTeamId": 4730,
+                    "homeTeam": {
+                        "id": 4765,
+                        "name": "\uc911\uad6d \ud64d\ucf69"
+                    },
+                    "awayTeam": {
+                        "id": 4730,
+                        "name": "\ud0dc\uad6d"
+                    },
+                    "startAt": "2023-06-19T21:00:00",
+                    "eventTime": null,
+                    "marketCount": 78,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "93918160e7db2bc7ca121763c8cff9fa",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc911\uad6d \ud64d\ucf69"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 4,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 1.615,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ud0dc\uad6d"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 1
+                            },
+                            "marketHash": "12d1ec5cbee612cc2b7ed2b85418d416",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc911\uad6d \ud64d\ucf69 (+1)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ud0dc\uad6d (-1)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 2.5
+                            },
+                            "marketHash": "dd58749212c3a6c6a2f093a33cbf49e4",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.76,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 2.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.98,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 2.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41507073,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 851,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 851,
+                        "sportId": 1,
+                        "name": "\uad6d\uc81c \uce5c\uc120\uacbd\uae30",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 4,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 4769,
+                    "awayTeamId": 4771,
+                    "homeTeam": {
+                        "id": 4769,
+                        "name": "\uc790\uba54\uc774\uce74"
+                    },
+                    "awayTeam": {
+                        "id": 4771,
+                        "name": "\uc694\ub974\ub2e8"
+                    },
+                    "startAt": "2023-06-19T21:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "8a8ca0e7dc6fdb9de779d81884b141e3",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 2.7,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc790\uba54\uc774\uce74"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 3.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 2.65,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc694\ub974\ub2e8"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 0
+                            },
+                            "marketHash": "549085467dcb5fdcfcbfd139bbed6b2b",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.88,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc790\uba54\uc774\uce74 (0)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.85,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc694\ub974\ub2e8 (0)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 2
+                            },
+                            "marketHash": "1c62e0a65583a92d1d8e49560ca6ae28",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 2"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 2"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41507071,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 851,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 851,
+                        "sportId": 1,
+                        "name": "\uad6d\uc81c \uce5c\uc120\uacbd\uae30",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 4,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 4829,
+                    "awayTeamId": 4819,
+                    "homeTeam": {
+                        "id": 4829,
+                        "name": "\uc778\ub3c4\ub124\uc2dc\uc544"
+                    },
+                    "awayTeam": {
+                        "id": 4819,
+                        "name": "\uc544\ub974\ud5e8\ud2f0\ub098"
+                    },
+                    "startAt": "2023-06-19T21:30:00",
+                    "eventTime": null,
+                    "marketCount": 33,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "01dc12d256963f5cc336c7d47c85423e",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 41,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc778\ub3c4\ub124\uc2dc\uc544"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 15,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 1.03,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc544\ub974\ud5e8\ud2f0\ub098"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 3.5
+                            },
+                            "marketHash": "ad8ac2c2fc73094ec3394a71e29f7742",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.92,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc778\ub3c4\ub124\uc2dc\uc544 (+3.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.82,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc544\ub974\ud5e8\ud2f0\ub098 (-3.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 4.5
+                            },
+                            "marketHash": "ba01431b1e055dfc8a9f413219389d51",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.85,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 4.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.88,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 4.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 40322415,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 26,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 26,
+                        "sportId": 1,
+                        "name": "U21 \uc720\ub85c \uc608\uc120",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 392,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 324543,
+                    "awayTeamId": 4793,
+                    "homeTeam": {
+                        "id": 324543,
+                        "name": "\uc9c0\ube0c\ub864\ud130"
+                    },
+                    "awayTeam": {
+                        "id": 4793,
+                        "name": "\uc2a4\uc6e8\ub374 (U21)"
+                    },
+                    "startAt": "2023-06-20T00:00:00",
+                    "eventTime": null,
+                    "marketCount": 2,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "a7c4d180f162ad056f392affe9e71946",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 34,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc9c0\ube0c\ub864\ud130"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 19,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 1.013,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc2a4\uc6e8\ub374 (U21)"
+                                }
+                            ]
+                        },
+                        "hcp": null,
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 2.5
+                            },
+                            "marketHash": "f063f6b11e50a6de3113284387acf185",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.091,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 2.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 6.5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 2.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41731391,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "INT CF",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 211590,
+                    "awayTeamId": 1925,
+                    "homeTeam": {
+                        "id": 211590,
+                        "name": "NK Rogaska"
+                    },
+                    "awayTeam": {
+                        "id": 1925,
+                        "name": "\ud398\ub80c\uce20\ubc14\ub85c\uc2dc TC"
+                    },
+                    "startAt": "2023-06-20T00:30:00",
+                    "eventTime": null,
+                    "marketCount": 77,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "9e87ce88c8f82902ab34c265c5508c57",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 13,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "NK Rogaska"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 7,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 1.182,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ud398\ub80c\uce20\ubc14\ub85c\uc2dc TC"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 2
+                            },
+                            "marketHash": "eba48d063505dfd084c6eacf145818e9",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.94,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "NK Rogaska (+2)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.82,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ud398\ub80c\uce20\ubc14\ub85c\uc2dc TC (-2)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3.5
+                            },
+                            "marketHash": "fae868b78672e322aed9a66f290d9be3",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.92,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 3.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.82,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 3.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 36603789,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 27,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 27,
+                        "sportId": 1,
+                        "name": "\uc720\ub7fd \ucc54\ud53c\uc5b8\uc2ed",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 4,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 4712,
+                    "awayTeamId": 4833,
+                    "homeTeam": {
+                        "id": 4712,
+                        "name": "\ud540\ub780\ub4dc"
+                    },
+                    "awayTeam": {
+                        "id": 4833,
+                        "name": "\uc0b0\ub9c8\ub9ac\ub178"
+                    },
+                    "startAt": "2023-06-20T01:00:00",
+                    "eventTime": null,
+                    "marketCount": 29,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "f7d55e0229726385724699334c6663ae",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.01,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ud540\ub780\ub4dc"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 15,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 81,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc0b0\ub9c8\ub9ac\ub178"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -4
+                            },
+                            "marketHash": "221213e94751c85294d51bdf80179510",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ud540\ub780\ub4dc (-4)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc0b0\ub9c8\ub9ac\ub178 (+4)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 4.5
+                            },
+                            "marketHash": "c8b8f6215fd823f240c1657e8c8a6dac",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 4.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 4.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 36601939,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 27,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 27,
+                        "sportId": 1,
+                        "name": "\uc720\ub7fd \ucc54\ud53c\uc5b8\uc2ed",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 4,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 4701,
+                    "awayTeamId": 4483,
+                    "homeTeam": {
+                        "id": 4701,
+                        "name": "\uc6b0\ud06c\ub77c\uc774\ub098"
+                    },
+                    "awayTeam": {
+                        "id": 4483,
+                        "name": "\ub9d0\ud0c0"
+                    },
+                    "startAt": "2023-06-20T01:00:00",
+                    "eventTime": null,
+                    "marketCount": 95,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "5ec3d337393521d4745ae2ea4c35eb63",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.125,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc6b0\ud06c\ub77c\uc774\ub098"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 8.5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 17,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ub9d0\ud0c0"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -2.5
+                            },
+                            "marketHash": "c6ec3fe5cac02b19b31e8562ea5f64ff",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc6b0\ud06c\ub77c\uc774\ub098 (-2.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.76,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ub9d0\ud0c0 (+2.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3.5
+                            },
+                            "marketHash": "0f60ba982c9210df3604a14ee1cb83ee",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.88,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 3.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.86,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 3.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 36602327,
+                    "sportId": 1,
+                    "sportName": "\ucd95\uad6c",
+                    "producerId": 3,
+                    "matchStatus": "\uacbd\uae30\uc2dc\uc791\uc804",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 27,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 27,
+                        "sportId": 1,
+                        "name": "\uc720\ub7fd \ucc54\ud53c\uc5b8\uc2ed",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 4,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 4740,
+                    "awayTeamId": 4706,
+                    "homeTeam": {
+                        "id": 4740,
+                        "name": "\uc544\ub974\uba54\ub2c8\uc544"
+                    },
+                    "awayTeam": {
+                        "id": 4706,
+                        "name": "\ub77c\ud2b8\ube44\uc544"
+                    },
+                    "startAt": "2023-06-20T01:00:00",
+                    "eventTime": null,
+                    "marketCount": 98,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "abe0c8543af08d983315705ee1acf00e",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc2b9\ubb34\ud328",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc544\ub974\uba54\ub2c8\uc544"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 3.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ubb34\uc2b9\ubd80"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 4.333,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ub77c\ud2b8\ube44\uc544"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -0.5
+                            },
+                            "marketHash": "9f0ccddad93e68c6dbd74c9353423c49",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\ud578\ub514\ucea1",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc544\ub974\uba54\ub2c8\uc544 (-0.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\ub77c\ud2b8\ube44\uc544 (+0.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 2.5
+                            },
+                            "marketHash": "adb5de567c36dba3e239d40bd4870244",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "\uc624\ubc84\uc5b8\ub354",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.82,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc624\ubc84 2.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.92,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "\uc5b8\ub354 2.5"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

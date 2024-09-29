@@ -1,0 +1,144 @@
+body {
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.quick-prod-top {
+    display: none
+}
+
+.container {
+    padding-top: 130px
+}
+
+@media screen and (max-width:768px) {
+    .container {
+        padding-top: 55px
+    }
+
+
+}
+
+.container1 {
+    max-width: 1405px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* width: 100%; */
+}
+
+.withdrawal {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.withdrawal h3,
+.withdrawal p {
+    margin: 0;
+    color: #333;
+    font-size: 15px;
+    display: inline-block;
+}
+
+.main-lotto-buy .swiper-slide {
+    border-radius: 10px;
+    background: #ffffff;
+    padding: 13px 0px;
+    min-height: 360px;
+    /* margin: auto; */
+    align-items: center !important;
+    justify-content: center !important;
+    width: 320px !important;
+    /* width: 90%; */
+    margin-left: auto;
+}
+
+.main-bbs-w .main-bbs-inner .con {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 50px 50px 50px 50px;
+    background: radial-gradient(circle, rgba(253, 116, 84, 1) 0%, rgba(255, 101, 172, 1) 100%);
+    max-width: 100%;
+    width: 100%;
+    min-height: 480px;
+    border-radius: 10px;
+}
+
+.main-bbs-w .main-bbs-inner .con .faq-w {
+    position: relative;
+    width: 37%;
+}
+
+.main-lotto-buy .swiper-wrapper {
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 170px; */
+}
+
+@media screen and (max-width: 768px) {
+    .container1 {
+        padding: 10px;
+    }
+
+    .main-bbs-w .main-bbs-inner .con {
+        padding: 4px;
+    }
+
+    .main-lotto-buy .swiper-slide {
+        margin-left: 22px;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+}
+
+/* for animation */
+.bbs-w {
+    width: 50%;
+    /* Adjust the width as needed */
+    margin: 0 auto;
+    border: 0px solid #ccc;
+    /* Add border */
+    padding: 10px;
+}
+
+.main-bbs-list {
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    border: 0px solid #eee;
+    /* Add border */
+    border-radius: 5px;
+    /* Add border radius */
+}
+
+.item {
+    animation: moveUp 30s linear infinite;
+    /* Adjust animation duration here */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+@keyframes moveUp {
+    0% {
+        transform: translateY(0);
+    }
+
+    100% {
+        transform: translateY(calc(-100% * <?php echo mysqli_num_rows($result); ?>));
+    }
+}
+
+/* Styles for mobile */
+@media only screen and (max-width: 768px) {
+    .bbs-w {
+        width: 100%;
+    }
+
+    .item span {
+        font-size: 13px;
+        /* Adjust font size for smaller screens */
+    }
+}
